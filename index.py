@@ -1,3 +1,6 @@
+# Renato Gomes da Silva Filho
+# Bruno Camargo Sukekawa
+
 from datetime import *
 
 ### Cadastro de Usuário
